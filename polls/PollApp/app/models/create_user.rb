@@ -1,0 +1,5 @@
+class CreateUser < ApplicationRecord
+
+  
+
+end
